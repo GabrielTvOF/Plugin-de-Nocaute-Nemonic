@@ -1,8 +1,0 @@
-name: KnockoutFix
-version: 1.0.0
-main: org.mynion.knockoutfix.KnockoutFix
-api-version: '1.21'
-description: Corrige o bug do plugin Knockout onde jogadores nocauteados conseguem atacar outros jogadores
-author: KnockoutFix
-depend:
-  - Knockout
